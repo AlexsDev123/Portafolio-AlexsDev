@@ -1,13 +1,13 @@
 # Portafolio | AlexsDev
-**Minecraft Full-Stack Developer (Proxy & Game Servers)**
+**Minecraft Developer (Proxy & Game Servers)**
 
 ¡Hola! Soy un desarrollador especializado en la creación de soluciones integrales para servidores de Minecraft. Mi enfoque principal es el desarrollo de **plugins esenciales** tanto para Proxies (Velocity/Bungee) como para servidores finales (Spigot/Paper).
 
 ---
 
-## 🚀 Especialidades Técnicas
+## ☛ Especialidades Técnicas
 
-### 🏗️ Infraestructura y Redes
+### ● Infraestructura y Redes
 - **Creación de Servidores:** Configuración completa de redes desde cero.
 - **Velocity Expert:** Desarrollo de plugins esenciales para la gestión de tráfico y seguridad en el proxy.
 
