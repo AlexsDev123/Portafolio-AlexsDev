@@ -1,4 +1,4 @@
-# Portafolio | AlexsDev
+# Portafolio AlexsDev/Prosian2
 **Minecraft Developer (Proxy & Game Servers)**
 
 ¡Hola! Soy un desarrollador especializado en la creación de soluciones integrales para servidores de Minecraft. Mi enfoque principal es el desarrollo de **plugins esenciales** tanto para Proxies (Velocity/Bungee) como para servidores finales (Spigot/Paper).
