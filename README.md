@@ -1,34 +1,30 @@
-# 🕹️ Portafolio | AlexsDev
-**Minecraft Developer (Spigot / Velocity / BungeeCord)**
+# Portafolio | AlexsDev
+**Minecraft Full-Stack Developer (Proxy & Game Servers)**
 
-Hola! Soy Alex, desarrollador especializado en la creación de infraestructura y plugins personalizados para redes de Minecraft. Actualmente enfocado en el desarrollo para **Regorland Network**.
-
----
-
-## 🛠️ Stack Técnico
-* **Lenguajes:** Java (8, 11, 17+).
-* **Proxies:** Velocity API (Preferido), BungeeCord.
-* **Server Software:** Paper, Spigot, Purpur.
-* **Bases de Datos:** MySQL, MariaDB y manejo de Redis para sincronización.
-* **Herramientas:** Maven / Gradle, Git, y manejo de Linux para hosting.
+¡Hola! Soy un desarrollador especializado en la creación de soluciones integrales para servidores de Minecraft. Mi enfoque principal es el desarrollo de **plugins esenciales** tanto para Proxies (Velocity/Bungee) como para servidores finales (Spigot/Paper).
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Especialidades Técnicas
 
-### 🟢 Regor-Sodas-Velocity
-*Plugin de gestión para redes Velocity.*
-- **Función:** Implementación de [aquí pon qué hace brevemente].
-- **Tecnología:** Uso de la API de Velocity 3.x y programación asíncrona.
-- **Logro:** Optimización del manejo de datos entre el proxy y los servidores.
+### 🏗️ Infraestructura y Redes
+- **Creación de Servidores:** Configuración completa de redes desde cero.
+- **Velocity Expert:** Desarrollo de plugins esenciales para la gestión de tráfico y seguridad en el proxy.
 
-### 🌐 Infraestructura de Servidores
-- Experiencia configurando redes complejas (Lobbies, Auth, Survival, etc.).
-- Gestión de permisos avanzados y mitigación de exploits.
+### 💻 Desarrollo de Software (Plugin Dev)
+- **McMultiProxy(v1.0.0):** Miembro/Autor: AlexsDev. Desarrollo de lógica para proxies enfocada en múltiples proxys usando Redis.
+- **Spigot/Paper:** Creación de herramientas esenciales para mejorar la experiencia de juego y el rendimiento del servidor.
+- **Programación Asíncrona:** Código optimizado para mantener los 20 TPS constantes.
+
+---
+
+## 🛠️ Tecnologías
+- **Data:** MySQL, MariaDB, YAML/JSON Configs.
+- **Network:** Redis (Sync entre servidores), Plugin Messaging Channels
 
 ---
 
 ## 📬 Contacto
-- **Discord:** [TuUsuarioDeDiscord]
-- **GitHub:** [Link a tus repositorios]
-- 
+¿Buscas un Developer para tu red? ¡Contactame!
+- **Discord:** prosian2
+-
