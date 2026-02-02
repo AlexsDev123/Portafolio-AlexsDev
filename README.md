@@ -21,10 +21,9 @@
 ## 🛠️ Tecnologías
 - **Data:** MySQL, MariaDB, YAML/JSON Configs.
 - **Network:** Redis (Sync entre servidores), Plugin Messaging Channels
+---
 
-- Me apasiona aprender nuevas tecnologías y mejorar continuamente mis habilidades para crear mejores soluciones y experiencias de usuario.
-
-Mis habilidades y herramientas
+- **Me apasiona aprender nuevas tecnologías y mejorar continuamente mis habilidades para crear mejores soluciones y experiencias de usuario.**
 
 ## 📬 Contacto
 ¿Buscas un Developer para tu red? ¡Contactame!
