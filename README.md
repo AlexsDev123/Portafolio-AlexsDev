@@ -27,4 +27,4 @@
 ## 📬 Contacto
 ¿Buscas un Developer para tu red? ¡Contactame!
 - **Discord:** prosian2
--
+- **Contacto:** alexsdevcontacto@gmail.com
